@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @An-And-git aka Anand
+- 👋 Hi, I’m @An-And-git (aka) Anand
 - 👀 I’m interested in Web design, Python, Django, React JS
 - 🌱 I’m currently learning Python, Django, React JS
 - 💞️ I’m looking to collaborate on a web development team to use my skills for developing applications 
